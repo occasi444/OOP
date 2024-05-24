@@ -1,4 +1,5 @@
-from classes import Car, Tier
+from classes.car_class import Car
+from classes.tier_class import Tier
 
 car_1 = Car("Chevy", "Corvette", 2021, "blue")
 car_2 = Car("Ford", "Mustang", 2022, "red")
