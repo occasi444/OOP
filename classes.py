@@ -21,3 +21,5 @@ class Tier:
 
     def printAlter(self):
         print ("Alter: ", self.alter)
+
+# test
