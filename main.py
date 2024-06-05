@@ -16,3 +16,5 @@ car_2.stop()
 tier_1 = Tier("Husky", "mänlich", 7)
 
 tier_1.printAlter()
+
+# comment
